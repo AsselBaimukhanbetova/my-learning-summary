@@ -18,6 +18,8 @@
 
  Summary made by articleS:
 
+https://jasonwatmore.com/net-6-jwt-authentication-with-refresh-tokens-tutorial-with-example-api
+
  https://habr.com/ru/articles/466929/:
  
 
