@@ -12,16 +12,17 @@
 
  ![](images/rtr-scheme.png)
 
+#### Functionality of refresh token rotation creating steps:
 
-
-
-
- Summary made by articleS:
+-  Summary made by articleS:
 
 https://jasonwatmore.com/net-6-jwt-authentication-with-refresh-tokens-tutorial-with-example-api
 
  https://habr.com/ru/articles/466929/:
  
 
+## links to boost security-related skills 
 
+https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens
 
+https://stackoverflow.com/questions/38986005/what-is-the-purpose-of-a-refresh-token
